@@ -1,4 +1,4 @@
-### Hi there 👋
+![Astronaut Run](https://media0.giphy.com/media/10PHJGDj0oNna0/giphy.gif?cid=ecf05e47c3l5ffarczz86x7bmplvgigjerjbbz60ov2vlaka&rid=giphy.gif)
 
 <!--
 **seanwestfall/seanwestfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
