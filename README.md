@@ -3,7 +3,7 @@ Creator of finely crafted digital products, participant in the online marketplac
   
 ![Astronaut Run](https://media0.giphy.com/media/10PHJGDj0oNna0/giphy.gif?cid=ecf05e47c3l5ffarczz86x7bmplvgigjerjbbz60ov2vlaka&rid=giphy.gif)  
 
-I'm a bit of a space case (hense the image above), but's it's because I'm always thinking about programming languages. My favorite languages are [Rust](https://www.rust-lang.org/), [Golang](https://golang.org), and [Haskell](https://www.haskell.org/).  
+I'm a bit of a space case (hence the image above), but's it's because I'm always thinking about programming languages. My favorite languages are [Rust](https://www.rust-lang.org/), [Golang](https://golang.org), and [Haskell](https://www.haskell.org/).  
   
 <!--
 **seanwestfall/seanwestfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
