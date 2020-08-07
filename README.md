@@ -9,7 +9,7 @@ See my portfolio to see some sample applications: https://github.com/seanwestfal
   
 I am also into yoga 🧘, surfing 🏄, drinking tea 🍵, and reading books 📚. And I'm trying to get in photography 📸.  
   
-  `
+  
 <!--
 **seanwestfall/seanwestfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
