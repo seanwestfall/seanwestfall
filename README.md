@@ -6,6 +6,11 @@ Creator of finely crafted digital products, participant in the online marketplac
 I'm a bit of a space case (hence the image above), but it's because I'm always thinking about programming languages. My favorite languages are [Rust](https://www.rust-lang.org/), [Golang](https://golang.org), and [Haskell](https://www.haskell.org/).  
 
 See my portfolio to see some sample applications: https://github.com/seanwestfall/portfolio  
+
+I also like making programming languages for fun, check out some of them:  
+* hm [https://github.com/seanwestfall/hm](https://github.com/seanwestfall/hm)  
+* seanlisp [https://github.com/seanwestfall/seanlisp](https://github.com/seanwestfall/seanlisp)  
+* seanscheme [https://github.com/seanwestfall/seanscheme](https://github.com/seanwestfall/seanscheme)  
   
 I am also into yoga 🧘, surfing 🏄, drinking tea 🍵, and reading books 📚. And I'm trying to get in photography 📸.  
   
