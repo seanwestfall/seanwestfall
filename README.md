@@ -12,7 +12,7 @@ I also like making programming languages for fun, check out some of them:
 * seanlisp [https://github.com/seanwestfall/seanlisp](https://github.com/seanwestfall/seanlisp)  
 * seanscheme [https://github.com/seanwestfall/seanscheme](https://github.com/seanwestfall/seanscheme)  
   
-I am also into yoga 🧘, surfing 🏄, drinking tea 🍵, and reading books 📚. And I'm trying to get in photography 📸.  
+I am also into yoga 🧘, surfing 🏄, drinking tea 🍵, and reading books 📚. And I'm trying to get in to photography 📸.  
 
 <!--
 暇なときに日本語も勉強しています。私は日本人とマニアックなものが大好きです。これが読めるなら、最高だ！  
